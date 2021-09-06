@@ -1,0 +1,13 @@
+C:\Users\tomilola\erbaverproject\bin\Debug\netcoreapp3.1\erbaverproject.exe
+C:\Users\tomilola\erbaverproject\bin\Debug\netcoreapp3.1\erbaverproject.deps.json
+C:\Users\tomilola\erbaverproject\bin\Debug\netcoreapp3.1\erbaverproject.runtimeconfig.json
+C:\Users\tomilola\erbaverproject\bin\Debug\netcoreapp3.1\erbaverproject.runtimeconfig.dev.json
+C:\Users\tomilola\erbaverproject\bin\Debug\netcoreapp3.1\erbaverproject.dll
+C:\Users\tomilola\erbaverproject\bin\Debug\netcoreapp3.1\erbaverproject.pdb
+C:\Users\tomilola\erbaverproject\obj\Debug\netcoreapp3.1\erbaverproject.csprojAssemblyReference.cache
+C:\Users\tomilola\erbaverproject\obj\Debug\netcoreapp3.1\erbaverproject.AssemblyInfoInputs.cache
+C:\Users\tomilola\erbaverproject\obj\Debug\netcoreapp3.1\erbaverproject.AssemblyInfo.cs
+C:\Users\tomilola\erbaverproject\obj\Debug\netcoreapp3.1\erbaverproject.csproj.CoreCompileInputs.cache
+C:\Users\tomilola\erbaverproject\obj\Debug\netcoreapp3.1\erbaverproject.dll
+C:\Users\tomilola\erbaverproject\obj\Debug\netcoreapp3.1\erbaverproject.pdb
+C:\Users\tomilola\erbaverproject\obj\Debug\netcoreapp3.1\erbaverproject.genruntimeconfig.cache
